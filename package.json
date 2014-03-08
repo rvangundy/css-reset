@@ -1,0 +1,20 @@
+{
+  "name": "css-reset",
+  "version": "0.0.0",
+  "description": "An npm-loadable CSS reset",
+  "main": "reset.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvangundy/css-reset.git"
+  },
+  "keywords": [
+    "css",
+    "npm"
+  ],
+  "author": "Ryan VanGundy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rvangundy/css-reset/issues"
+  },
+  "homepage": "https://github.com/rvangundy/css-reset"
+}
